@@ -1,0 +1,18 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'TensorFlow_Tutorial_v3b.ipynb'
+ outputting to 'tf2.ipynb'
+--------------------------------------------------------------------------------
+
+6:0: INFO: Not upgrading symbols because `tensorflow.compat.v1` was directly imported as `tf`.
+504:0: INFO: Not upgrading symbols because `tensorflow.compat.v1` was directly imported as `tf`.
+--------------------------------------------------------------------------------
+
